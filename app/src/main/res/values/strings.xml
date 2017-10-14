@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Possibility with your crush</string>
+    <string name="title">သင္နဲ႕ သင္ Crush တို႔ နီးစပ္ႏိုင္မႈ အေျခအေန ဘယ္ေလာက္ရွိသလဲ?</string>
+    <string name="you">သင့္အမည္ေရးပါ</string>
+    <string name="crush">သင့္ Crush အမည္ေရးပါ</string>
+    <string name="t10">လံုးဝ (လံုးဝ) ကို မျဖစ္နိုင္ပါဘူး ။</string>
+    <string name="t20"> ျဖစ္နိုင္ေခ်မရွိပါ ။</string>
+    <string name="t30">လက္ေလ်ာ့လိုက္ျခင္းကသာ အေကာင္းဆံုး ေရြးခ်ယ္မႈျဖစ္မွာပါ။</string>
+    <string name="t40">ဟိုက အဖက္ေတာင္လုပ္လို႔လား :3 လက္ေလ်ာ့လိုက္ပါကြား။</string>
+    <string name="t50">ၾကိဳးေတာ့ ၾကိဳးစားၾကည့္ပါ နီးစပ္ႏိုင္ေခ်ရွိပါတယ္။</string>
+    <string name="t60">သူမၾကိဳက္တဲ႔ အရာေတြ မလုပ္ပါနဲ႔။ ကိုယ့္ကို ကိုယ္ေသခ်ာ ျပဳျပင္လိုက္ပါ။
+ဒါဆို အဆင္ေျပမွာပါ။</string>
+    <string name="t70">သင့္ကို သူ သတိထားမိပါတယ္ ။ ဇြဲ မေလ်ာ့ပဲသာ ဆက္ၾကိဳးစားပါ ။ အဆင္ေျပမွာပါ။</string>
+    <string name="t80">ဘာလုပ္ေနတာလဲ ဖြင့္သာေျပာလိုက္ေတာ့ေလ :V</string>
+    <string name="t90">ေသခ်ာေပါက္ နီးစပ္ရမွာပါ ။ ဖြင့္ေျပာလိုက္ရင္ အေျဖေတာင္တန္းရမယ္ :P</string>
+    <string name="t100">ခပ္ေခ်ေခ်သာ ေနသက္လား ။ သင္ မ ခြက္ခင္တည္းက ဟိုက အရင္ ခြက္ေနတာ :V</string>
+    <string name="toCal">တြက္မည္</string>
+    <string name="check">စစ္ေဆးမည္</string>
+    <string name="result">စစ္ေဆးမႈ၏ ရလဒ္</string>
+</resources>
